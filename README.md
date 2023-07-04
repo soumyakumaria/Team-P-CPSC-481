@@ -7,4 +7,4 @@ Design team project for CPSC 481 with members:
 > Soumya Kumaria (10124004) <br>
 > Sydney Kwok (30073206)
 
-Portfolio: https://sophiango-uofc.github.io/Team-P-CPSC-481/
+Portfolio: https://sophia-ngo-uofc.github.io/Team-P-CPSC-481/
